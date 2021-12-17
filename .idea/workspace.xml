@@ -27,6 +27,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CSS" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -37,7 +40,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620927223726</updated>
       <workItem from="1620927225019" duration="30693000" />
-      <workItem from="1621354848971" duration="299000" />
+      <workItem from="1621354848971" duration="661000" />
     </task>
     <servers />
   </component>
